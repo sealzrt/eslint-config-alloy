@@ -76,7 +76,7 @@
         "eslint-config-prettier": "^4.3.0",
         "eslint-plugin-react": "^7.13.0",
         "eslint-plugin-vue": "^5.2.2",
-        "husky": "^2.3.0",
+        "husky": "^2.4.0",
         "prettier": "^1.17.1",
         "react": "^16.8.6",
         "ts-node": "^7.0.1",
