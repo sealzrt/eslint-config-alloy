@@ -76,7 +76,7 @@
         "doctrine": "^3.0.0",
         "eclint": "^2.8.1",
         "eslint": "^5.16.0",
-        "eslint-config-prettier": "^5.0.0",
+        "eslint-config-prettier": "^6.1.0",
         "eslint-plugin-react": "^7.14.2",
         "eslint-plugin-vue": "^5.2.3",
         "husky": "^2.3.0",
